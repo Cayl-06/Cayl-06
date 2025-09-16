@@ -1,4 +1,4 @@
-## Hi, I'm Cayl 👋
+<h1 align="center">Hi 👋, I'm Cayl</h1>
 
 
 
